@@ -55,13 +55,13 @@ Question 2 results
 
 The map successfully shows all the locations of the pizza restaurants Dave has rated. The color also accurately displays the score that was given. This color display is useful to users because the app doesn’t have a feature like this.
 
-![data screenshot](./graphs/map.png)
+![data screenshot](./graphs/map.PNG)
  
 Question 3 results
 
 The score distribution graphs display that the community and Dave both favors reviewing good pizza places. The community scores higher rankings and the peak is around 7 to 8. This shows that pizza places that have reviews are more popular in the community. Dave’s scores have a similar pattern, his concentration is in the 6 to 8 range. This distribution graph also shows that Dave scores a little harder than the community, especially with the lower scores where Dave has a lot more in the 0-3 range than the community.
 
-![data screenshot](./graphs/scoresDistrubtion.png)
+![data screenshot](./graphs/scoresDistribution.png)
  
 Question 4 results
 
