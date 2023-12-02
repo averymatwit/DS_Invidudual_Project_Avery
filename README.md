@@ -43,25 +43,25 @@ Question 1 results
 
 We found that the city with the best pizza is New Haven with Brooklyn in second place. Dave has controversially claimed New Haven does have the best tasting pizza with some of his favorites being Frank Pepe’s and Sally’s Pizzeria and it appears that our analysis proves his claims to be true. 
 
-![data screenshot](./graphs/top10Cities.PNG)
+![data screenshot](./graphs/top10Cities.png)
 
 Looking at the Linear Regression model we can see that the longitude and latitude play a very small, almost negligible role in Dave’s scores. The latitude and longitude show some degree of correlation, but the relationships are weak. These factors may be because of differences in pizza styles but the longitude and latitude are not as influential as other factors like community score and price level.
 
-![data screenshot](./graphs/locationRegression.PNG)
+![data screenshot](./graphs/locationRegression.png)
 
-![data screenshot](./graphs/LocationResults.PNG)
+![data screenshot](./graphs/LocationResults.png)
 
 Question 2 results
 
 The map successfully shows all the locations of the pizza restaurants Dave has rated. The color also accurately displays the score that was given. This color display is useful to users because the app doesn’t have a feature like this.
 
-![data screenshot](./graphs/map.PNG)
+![data screenshot](./graphs/map.png)
  
 Question 3 results
 
 The score distribution graphs display that the community and Dave both favors reviewing good pizza places. The community scores higher rankings and the peak is around 7 to 8. This shows that pizza places that have reviews are more popular in the community. Dave’s scores have a similar pattern, his concentration is in the 6 to 8 range. This distribution graph also shows that Dave scores a little harder than the community, especially with the lower scores where Dave has a lot more in the 0-3 range than the community.
 
-![data screenshot](./graphs/scoresDistrubtion.PNG)
+![data screenshot](./graphs/scoresDistrubtion.png)
  
 Question 4 results
 
@@ -69,7 +69,7 @@ Looking at the Linear Regression model we can see that the longitude and latitud
 
 When looking at the plot and the model it does appear that the community and Dave do often agree on pizza scoring. Our model had a Mean Error of 3.35 which is slightly on the higher side but not too far off. Looking at the factors, the community score has the greatest pull with an importance of 92.5% and the price category had an importance of 4% and the factor of the place being in New York or not had an importance of 2%.
 
-![data screenshot](./graphs/scoresRegression.PNG)
+![data screenshot](./graphs/scoresRegression.png)
 
 ![data screenshot](./graphs/ScoresResults.PNG)
 
