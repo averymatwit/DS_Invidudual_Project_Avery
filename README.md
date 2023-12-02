@@ -1,15 +1,20 @@
 # DS_Invidudual_Project_Avery
 
 ## Introduction
+
 Many people believe that their judgement of the best pizza is the best. However, one man’s opinion seemingly reigns the truth over the internet. His name is Dave Portnoy. Dave travels all over the United States trying out new pizza. He has over 1000 reviews and a YouTube channel with millions of subscribers. A good review from him could make a failing small business make it into a local hotspot. 
 	Over time, as Dave’s following grew, he created an app called the One Bite app where the community can place their opinions and ratings on other pizza and try and get Dave to give his official score. 
+
 Question 1
 	One question to be answered is one of the oldest questions of all time. What town has the greatest pizza? Could it be the Chicago deep dish style pizza, or maybe the Detroit style rectangular pizza. And then the biggest rivalry, New York (Specifically Brookyln) VS New Haven. These two cities have been fighting for the title for many years. We will see what Dave thinks the best is. 
 	After this we will make a linear regression model to see if the location plays a factor in Dave’s scoring. 
+
 Question 2
 	Let’s also create a map that displays all the Pizza Restaurants he has reviews with their pinpoints being color coded based off the score. This map is useful to someone in a new area looking for the best pizza place quickly and easily based off their own location. 
+
 Question 3
 	We will also look at the distribution of Dave’s and the community scoring. Let’s see if Dave and the community tend to favor rating more popular and better tasting pizza. 
+
 Question 4
 	In this project we are going to create a predictive model to see if we can predict what Dave will score on a restaurant based off various factors such as location, price, current community score, and amount of community reviews. These are factoring that Dave has acknowledged could change his opinion stating that “Vacation Dave gives better reviews than New York”. Meaning that when Dave is traveling to Saratoga Springs or Miami, he often gives better scores. When a pizza is more expensive, he often raises his expectations which could result in lower or higher scores as well. 
 
