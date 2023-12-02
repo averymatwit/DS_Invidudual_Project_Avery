@@ -87,5 +87,7 @@ The pproject deploys a Linear Regression Model and a Random Forest Model to esti
 
 We also revealed that many of Dave's claims he makes during his videos are backed by his scores, such as New Haven being the best pizza and that the higher the price, the tougher he grades.
 
- 
+## References
+[1] [The Portnoy Project)](https://www.libertybrewtours.com/project-portnoy/)
+[1] [Adventures in Barstool’s Pizza Data)](https://towardsdatascience.com/adventures-in-barstools-pizza-data-9b8ae6bb6cd1)
 
