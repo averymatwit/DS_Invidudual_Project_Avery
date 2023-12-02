@@ -1,7 +1,5 @@
 # DS_Invidudual_Project_Avery
 
-Link to main code [here](https://github.com/averymatwit/DS_Invidudual_Project_Avery/blob/main/codes/PizzaScoreAnalysis.ipynb)
-
 ## Introduction
 
 Many people believe that their judgement of the best pizza is the best. However, one man’s opinion seemingly reigns the truth over the internet. His name is Dave Portnoy. Dave travels all over the United States trying out new pizza. He has over 1000 reviews and a YouTube channel with millions of subscribers. A good review from him could make a failing small business make it into a local hotspot. 
@@ -25,6 +23,9 @@ Question 4
 In this project we are going to create a predictive model to see if we can predict what Dave will score on a restaurant based off various factors such as location, price, current community score, and amount of community reviews. These are factoring that Dave has acknowledged could change his opinion stating that “Vacation Dave gives better reviews than New York”. Meaning that when Dave is traveling to Saratoga Springs or Miami, he often gives better scores. When a pizza is more expensive, he often raises his expectations which could result in lower or higher scores as well. 
 
 ## Selection of Data
+
+Model and processing training were done using a Jupyter Notebook available [here](https://github.com/averymatwit/DS_Invidudual_Project_Avery/blob/main/codes/PizzaScoreAnalysis.ipynb)
+
   The data I selected is directly from the app so it is from a very credible source, you could even describe it as a primary source. The data is old and not up to date with some of his current reviews but there are still over 400 in this set. 
   
   To create a more accurate model, for any community score that was null, I estimated the score based off the scores in the location and Dave’s score. Dave has claimed the community scores do often line up with his so this seemed like a fair method. I also wanted to make sure that local biases were factored into the estimated score which is why I included the average score in the location.
