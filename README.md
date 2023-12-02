@@ -1,5 +1,7 @@
 # DS_Invidudual_Project_Avery
 
+Link to main code [here](https://github.com/averymatwit/DS_Individual_Project_averym/blob/main/codes/PizzaAnalysis.ipynb)
+
 ## Introduction
 
 Many people believe that their judgement of the best pizza is the best. However, one man’s opinion seemingly reigns the truth over the internet. His name is Dave Portnoy. Dave travels all over the United States trying out new pizza. He has over 1000 reviews and a YouTube channel with millions of subscribers. A good review from him could make a failing small business make it into a local hotspot. 
@@ -89,5 +91,6 @@ We also revealed that many of Dave's claims he makes during his videos are backe
 
 ## References
 [1] [The Portnoy Project)](https://www.libertybrewtours.com/project-portnoy/)
-[1] [Adventures in Barstool’s Pizza Data)](https://towardsdatascience.com/adventures-in-barstools-pizza-data-9b8ae6bb6cd1)
+
+[2] [Adventures in Barstool’s Pizza Data)](https://towardsdatascience.com/adventures-in-barstools-pizza-data-9b8ae6bb6cd1)
 
