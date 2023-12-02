@@ -1,6 +1,6 @@
 # DS_Invidudual_Project_Avery
 
-Link to main code [here](https://github.com/averymatwit/DS_Individual_Project_averym/blob/main/codes/PizzaAnalysis.ipynb)
+Link to main code [here](https://github.com/averymatwit/DS_Invidudual_Project_Avery/blob/main/codes/PizzaScoreAnalysis.ipynb)
 
 ## Introduction
 
