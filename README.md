@@ -73,5 +73,19 @@ When looking at the plot and the model it does appear that the community and Dav
 
 ![data screenshot](./graphs/ScoresResults.PNG)
 
+## Discussion
+
+These results can help prove the accuracy of Dave's scoring and whether or not his own claims about pizza align with his reviews. These results are important because of how big of a following Dave has on social media. His pizza reviews have great influence of millions of consumers so it is important that he gives accurate reviews and claims. 
+
+This research aligns with some of his claims such as New Haven having the best pizza. Also it shows that his reviews do often align with his communities. Also another project has been underway called the Portnoy Project where someone also analyzed every pizza review he has done up to 2020. The set didn't have as much data but some of the results do align with mine. It still have New Haven as the best pizza(Exluding towns with only 1-2 reviews). 
+
+Future research could involve using a more up to date data set up to 2023. Also we can implement Yelp reviews to see the corelation between Yelp reviews, Dave's review, and the community review.
+
+# Summary
+
+The pproject deploys a Linear Regression Model and a Random Forest Model to estimate Dave's pizza review. With the Linear Regression Model we had a MSE of about 2.2 and with the Forst Model we had a MSE of 3.5. 
+
+We also revealed that many of Dave's claims he makes during his videos are backed by his scores, such as New Haven being the best pizza and that the higher the price, the tougher he grades.
+
  
 
