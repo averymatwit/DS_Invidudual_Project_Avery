@@ -28,13 +28,14 @@ In this project we are going to create a predictive model to see if we can predi
   To create a more accurate model, for any community score that was null, I estimated the score based off the scores in the location and Dave’s score. Dave has claimed the community scores do often line up with his so this seemed like a fair method. I also wanted to make sure that local biases were factored into the estimated score which is why I included the average score in the location.
   
   I created a new feature called Is_New_York to determine if Dave is reviewing the pizza in New York City (meaning he is at work) or if he is traveling. Dave has claimed this plays a factor in his scoring because of his mood while traveling.
-## Methods
-
-  Some of the methods used were a Random Forest Regressor, this was used to train the model. This tool was preferred over others because of its compatibility with Boolean values, numerical values, and categorical values. We also used a LinearRegression model to look at the impact longitude and latitude had on Dave’s scores. Matplotlib and Seaborn were used to create a bar chart to display which city truly has the best pizza. Plotly express was used to create a map that shows the best pizza places in a location. The dataset was obtained through a Github user who had a similar curiosity as I did. He downloaded the data from the app and published the set. 
 
 Data preview: 
 
 ![data screenshot](./graphs/Data.PNG)
+
+## Methods
+
+  Some of the methods used were a Random Forest Regressor, this was used to train the model. This tool was preferred over others because of its compatibility with Boolean values, numerical values, and categorical values. We also used a LinearRegression model to look at the impact longitude and latitude had on Dave’s scores. Matplotlib and Seaborn were used to create a bar chart to display which city truly has the best pizza. Plotly express was used to create a map that shows the best pizza places in a location. The dataset was obtained through a Github user who had a similar curiosity as I did. He downloaded the data from the app and published the set. 
 
 ## Results
 
