@@ -94,12 +94,12 @@ Future research could involve using a more up to date data set up to 2023. Also 
 
 # Summary
 
-The pproject deploys a Linear Regression Model and a Random Forest Model to estimate Dave's pizza review. With the Linear Regression Model we had a MSE of about 2.2 and with the Forst Model we had a MSE of 3.5. 
+The project deploys a Linear Regression Model and a Random Forest Model to estimate Dave's pizza review. With the Linear Regression Model we had a MSE of about 2.2 and with the Forst Model we had a MSE of 3.5. 
 
 We also revealed that many of Dave's claims he makes during his videos are backed by his scores, such as New Haven being the best pizza and that the higher the price, the tougher he grades.
 
 ## References
-[1] [The Portnoy Project)](https://www.libertybrewtours.com/project-portnoy/)
+[1] [The Portnoy Project](https://www.libertybrewtours.com/project-portnoy/)
 
 [2] [Adventures in Barstool’s Pizza Data)](https://towardsdatascience.com/adventures-in-barstools-pizza-data-9b8ae6bb6cd1)
 
