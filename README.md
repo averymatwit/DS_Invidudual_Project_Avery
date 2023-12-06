@@ -32,6 +32,8 @@ Model and processing training were done using a Jupyter Notebook available [here
   
   I created a new feature called Is_New_York to determine if Dave is reviewing the pizza in New York City (meaning he is at work) or if he is traveling. Dave has claimed this plays a factor in his scoring because of his mood while traveling.
 
+Data file is available [here](https://github.com/averymatwit/DS_Invidudual_Project_Avery/blob/main/data/pizza_data.csv)
+
 Data preview: 
 
 ![data screenshot](./graphs/Data.PNG)
