@@ -88,13 +88,15 @@ When looking at the plot and the model it does appear that the community and Dav
 
 These results can help prove the accuracy of Dave's scoring and whether or not his own claims about pizza align with his reviews. These results are important because of how big of a following Dave has on social media. His pizza reviews have great influence of millions of consumers so it is important that he gives accurate reviews and claims. 
 
-This research aligns with some of his claims such as New Haven having the best pizza. Also it shows that his reviews do often align with his communities. Also another project has been underway called the Portnoy Project where someone also analyzed every pizza review he has done up to 2020. The set didn't have as much data but some of the results do align with mine. It still have New Haven as the best pizza(Exluding towns with only 1-2 reviews). 
+This study shows that several of Dave Portnoy's claims have been found true. His statement that New Haven has the best pizza shows in his scoring. This also shows a notable alignment between his reviews and his community review. There are correlations with another project called "The Portnoy Project" which analyzed all of Dave's reviews up to 2020. This dataset was less extensive, but its conclusions are in sync with my findings.
 
-Future research could involve using a more up to date data set up to 2023. Also we can implement Yelp reviews to see the corelation between Yelp reviews, Dave's review, and the community review.
+Future research could involve using a more up to date data set up to 2023. Additionally, implementing Yelp reviews to find correlations in addition to Dave's review, and the community review, revealing potential correlations and trends.
 
 # Summary
 
 The project deploys a Linear Regression Model and a Random Forest Model to estimate Dave's pizza review. With the Linear Regression Model we had a MSE of about 2.2 and with the Forst Model we had a MSE of 3.5. 
+
+The map will assist users to be able to quickly scan for the best pizza place in a location.
 
 We also revealed that many of Dave's claims he makes during his videos are backed by his scores, such as New Haven being the best pizza and that the higher the price, the tougher he grades.
 
