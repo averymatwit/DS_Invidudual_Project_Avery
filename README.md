@@ -45,6 +45,8 @@ Data preview:
   We also used a LinearRegression model to look at the impact longitude and latitude had on Dave’s scores. 
   
   Matplotlib and Seaborn were used to create a bar chart to display which city truly has the best pizza. Plotly express was used to create a map that shows the best pizza places in a location. 
+
+  A new feature was engineered as well which was a Boolean that said if Dave was in New York or not.
   
   The dataset was obtained through a Github user who had a similar curiosity as I did. He downloaded the data from the app and published the set. 
 
