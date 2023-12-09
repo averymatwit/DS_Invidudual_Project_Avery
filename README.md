@@ -94,7 +94,7 @@ These results can help prove the accuracy of Dave's scoring and whether or not h
 
 This study shows that several of Dave Portnoy's claims have been found true. His statement that New Haven has the best pizza shows in his scoring. This also shows a notable alignment between his reviews and his community review. There are correlations with another project called "The Portnoy Project" which analyzed all of Dave's reviews up to 2020. This dataset was less extensive, but its conclusions are in sync with my findings.
 
-Future research could involve using a more up to date data set up to 2023. Additionally, implementing Yelp reviews to find correlations in addition to Dave's review, and the community review, revealing potential correlations and trends.
+Future research could involve using a more up to date data set up to 2023. Additionally, implementing Yelp reviews to find correlations in addition to Dave's review, and the community review, revealing potential correlations and trends. More future research could be investigating the impact that Dave has on small buisness. Seeing the before and after of a small buisness's income could help Dave make claims on how important he is to the pizza community.
 
 # Summary
 
